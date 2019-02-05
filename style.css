@@ -1,0 +1,14 @@
+p {
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
+  text-transform: uppercase;
+  margin-left: 1.66%;
+  border-bottom: 1px solid lightgrey;
+  width: 30%;
+}
+
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
